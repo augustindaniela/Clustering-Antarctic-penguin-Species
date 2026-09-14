@@ -23,7 +23,7 @@ Researchers know there are **at least 3 native species** in the region (Adelie, 
 
 - The inertia curve drops sharply up through **k=4**, which was chosen as the final number of clusters
 - The model found **4 clusters** (more than the 3 known species — likely because sex also affects body size within each species, creating sub-groups)
-- 📏 Average profile per cluster (culmen length/depth, flipper length, body mass):
+- Average profile per cluster (culmen length/depth, flipper length, body mass):
 
 | Cluster | Culmen length (mm) | Culmen depth (mm) | Flipper (mm) | Body mass (g) |
 |---|---|---|---|---|
